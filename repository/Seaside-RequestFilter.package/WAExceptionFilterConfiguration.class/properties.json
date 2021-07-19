@@ -1,11 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "BaselineOf",
-	"category" : "BaselineOfSeaside3",
+	"super" : "WASystemConfiguration",
+	"category" : "Seaside-RequestFilter",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "BaselineOfSeaside3",
+	"name" : "WAExceptionFilterConfiguration",
 	"type" : "normal"
 }

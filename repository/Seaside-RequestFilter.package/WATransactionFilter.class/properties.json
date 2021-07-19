@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "lr 8/11/2009 10:59",
+	"super" : "WARequestFilter",
+	"category" : "Seaside-RequestFilter",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"closed"
+	],
+	"name" : "WATransactionFilter",
+	"type" : "normal"
+}

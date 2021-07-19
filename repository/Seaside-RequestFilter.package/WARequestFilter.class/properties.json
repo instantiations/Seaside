@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "pmm 9/14/2013 16:11",
+	"super" : "WAObject",
+	"category" : "Seaside-RequestFilter",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"next"
+	],
+	"name" : "WARequestFilter",
+	"type" : "normal"
+}
